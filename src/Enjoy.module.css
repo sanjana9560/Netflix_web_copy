@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container{
+    /* border: 2px solid red; */
+    height: 30rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    border-bottom: 10px solid #2f2f2f;
+    
+}
+
+.left{
+    height: 25rem;
+    width: 35rem;
+    /* border: 2px solid green; */
+    
+}
+
+.right{
+    height: 25rem;
+    width: 35rem;
+    /* border: 2px solid green; */
+    margin-top: 30px;
+    margin-right: 80px;
+}
+.photo{
+    height: 25rem;
+    width: 30rem;
+    margin-left: 130px;
+}.heading{
+    font-size: 50px;
+    margin-top: 30px;
+    color: white;
+}
+.para{
+    font-size: 27px;
+    color: white;
+}

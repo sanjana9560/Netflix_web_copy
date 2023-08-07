@@ -32,7 +32,7 @@ const Home = () => {
             type="text"
             placeholder="Enter address"
           ></input>
-          <button className={styles.but}>Get Started ></button>
+          <button className={styles.but}>Get Started {">"}</button>
         </div>
       </div>
     </>

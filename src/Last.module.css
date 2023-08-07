@@ -14,7 +14,8 @@
 .p1{
     margin-left:12rem ;
     font-size: 18px;
-    color: white;
+    color: #b1abab;
+    padding-top: 50px;
 
 }
 
@@ -32,7 +33,7 @@
 }
 .link{
     margin-top: 13px;
-    color: white;
+    color: #b1abab;
 }
 
 .color{

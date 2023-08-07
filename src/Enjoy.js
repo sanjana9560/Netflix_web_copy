@@ -7,7 +7,7 @@ const Enjoy = () => {
 
     <>
     <div className={styles.container}>
-    <div className={styles.left}>
+    <div className={styles.left}>  
     <img src={photo} alt='pic' className={styles.photo}/>
     </div>
     <div className={styles.right}>

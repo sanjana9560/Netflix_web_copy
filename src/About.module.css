@@ -35,16 +35,20 @@
 
 
 .right {
-  height: 60vh;
-  width: 50%;
+  height: 70vh;
+  width: 80%;
+  background-image: url(image/tv.png);
+  margin-left: 60px;
   /* border: solid green; */
 }
 
 .video {
-  height: 20rem;
-  width: 70.8%;
-  margin-inline-start: 4rem;
-  margin-block: 2.5rem;
+  height: 15rem;
+  width: 55%;
+  margin-left: 130px;
+  margin-top: 100px;
+  /* margin-inline-start: 1rem; */
+  /* margin-block: 2.5rem; */
  /* border: solid; */
   border-radius: 15px;
 }
